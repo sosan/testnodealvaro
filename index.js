@@ -21,10 +21,6 @@ const corsOptions = {
     }
 } 
 
-
-
-
-
 // habilitar Cors
 app.use( cors(corsOptions) );
 // app.use(cors());
